@@ -1,4 +1,5 @@
 # Exercício de Prática. ✏️
+Nos arquivos desse repositóriotenho minha versão já respondida do exercício abaixo.
 
 Neste exercício, partiremos de um formulário de registro implementado anteriormente, onde o usuário vai inserir uma série de dados dos inputs correspondentes.
 
